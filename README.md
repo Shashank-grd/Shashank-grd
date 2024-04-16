@@ -1,3 +1,4 @@
+![logo](https://github.com/Shashank-grd/Shashank-grd/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm SHASHANK SINHA</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk4bDIxb2x6ZXQzOWMxYnp0MDNkamNkODF4ZHl0MzRjeWlqNXhnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
