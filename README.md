@@ -4,9 +4,7 @@
 <img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk4bDIxb2x6ZXQzOWMxYnp0MDNkamNkODF4ZHl0MzRjeWlqNXhnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank-grd&label=Profile%20views&color=0e75b6&style=flat" alt="shashank-grd" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security**
-
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter**  **Generative AI**
 
 - 📫 How to reach me **shashank.2grd@gmail.com**
 
